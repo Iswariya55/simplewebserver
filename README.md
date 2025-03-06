@@ -36,9 +36,37 @@ Start the server script and check for errors.
 Open a browser and navigate to http://127.0.0.1:8000 (or the assigned port).
 
 ## PROGRAM:
-
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ishu</title>
+</head>
+<body>
+    <h1>Fundamentals web application 19AI414 - 4J3 slot</h1>
+    <h2>Fundamentals web application</h2>
+    <h3>Fundamentals web application</h3>
+    <h4>Fundamentals web application</h4>
+    <h5>Fundamentals web application</h5>
+    <h6>Fundamentals web application</h6>
+    <b> ishwarya </b><br>
+    <i> ishwarya </i><br>
+    <u> ishwarya </u><br>
+    <strong> ishwarya </strong><br>
+    <em> ishwarya </em><br>
+    <pne> ishwarya </pne><br>
+    <p> ishwarya </p><br>
+    <sub> ishwarya </sub><br>
+    <sup> ishwarya </sup><br>
+    <div> ishwarya </div><br>
+    <aside> ishwarya </aside><br>
+    <del> ishwarya </del><br>
+    <span> ishwarya </span><br>
+    <hr> ishwarya <hr><br>
 
 ## OUTPUT:
+![Screenshot 2025-03-06 041521](https://github.com/user-attachments/assets/deebc04d-82e9-49de-9910-6afb266d81eb)
 
 
 ## RESULT:
